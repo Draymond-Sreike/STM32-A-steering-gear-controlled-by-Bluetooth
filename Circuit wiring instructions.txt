@@ -1,0 +1,6 @@
+1.舵机正极连STLINK的5V，负极与stm32共地，IO口连A1
+2.有OLED屏
+3.【HC06】  VCC --- VCC  【STM32】
+           	    GND --- GND
+  	    TXD  --- A10
+	    RXD  --- A9
